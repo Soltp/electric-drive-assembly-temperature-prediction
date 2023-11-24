@@ -26,7 +26,7 @@ In this paper, we set time interval as 10 seconds, 15 seconds, 20 seconds, 25 se
 In the water-cooled EDA and oil-cooled EDA dataset, we set the parameters seq_len to 5 and pre_len to 20, 30, 40, 50, 60, respectively.
 
 ## Data Description
-There are one datasets in the data fold, the other oil-cooled EDA dataset. Another oil-cooled dataset is being supplemented for further testing and can be contacted by email if required.<br>
+There are one datasets in the data fold, Another oil-cooled dataset is being supplemented for further testing and can be contacted by email if required.<br>
 (1)  water-cooled EDA. The data set was obtained by testing a water-cooled single motor, which can be accessed by accessing " https://www.kaggle.com/datasets/wkirgsn/electric-motor-temperature".<br>
 (2) oil-cooled EDA. The dataset was obtained by testing the EDA of dual motors on the EDA temperature test bench of Zhao Zhiguo's research group in Tongji University, including temperature node information, motor current, voltage, speed and torque information
 
