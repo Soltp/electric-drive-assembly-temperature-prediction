@@ -8,7 +8,7 @@ This is a TensorFlow implementation of OLS-RGCN: spatio-temporal relational grap
 * numpy
 * pandas
 * math
-*os
+* os
 
 ## Run the demo
 Python main.py
@@ -48,4 +48,4 @@ If you are using this code please cite as follows.
   Conference={SAE 2023 Vehicle Powertrain Diversification Technology Forum}, 
   title={Transient Temperature Field Prediction of PMSM Based on Electromagnetic-Heat-Flow Multi-Physics Coupling and Data-Driven Fusion Modeling}, 
   year={2023},
-  doi={https://doi.org/10.4271/2023-01-7031}
+  doi={10.4271/2023-01-7031}
