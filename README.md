@@ -34,7 +34,7 @@ In order to use the model, we need
 * adjacency matrix "TNT_adj", which describes the spatial relationship between each nodes,  and it can be derived from a specific EDA or PMSM lumped parameter thermal network model.
 
 # Citation
-This repository is published in order to support reproducability of experiments from the published journal article [Short-Term Prediction Method of Transient Temperature Field Variation for PMSM in Electric Drive Gearbox Using Spatial-Temporal Relational Graph Convolutional Thermal Neural Network](https://ieeexplore.ieee.org/document/10232897) and Conference article [Transient Temperature Field Prediction of PMSM Based on Electromagnetic-Heat-Flow Multi-Physics Coupling and Data-Driven Fusion Modeling](https://saemobilus.sae.org/content/2023-01-7031/)
+This repository is published in order to support reproducability of experiments from the published journal article [Short-Term Prediction Method of Transient Temperature Field Variation for PMSM in Electric Drive Gearbox Using Spatial-Temporal Relational Graph Convolutional Thermal Neural Network](https://ieeexplore.ieee.org/document/10232897) and Conference article [Transient Temperature Field Prediction of PMSM Based on Electromagnetic-Heat-Flow Multi-Physics Coupling and Data-Driven Fusion Modeling](https://saemobilus.sae.org/content/2023-01-7031/) and [Transient temperature field prediction method of electric drive transmission considering spatial-temporal correlation characteristics under high speed and large torque](https://saemobilus.sae.org/content/2024-01-2024/)
 If you are using this code please cite as follows.
 ```
 @ARTICLE{
@@ -49,3 +49,9 @@ If you are using this code please cite as follows.
   title={Transient Temperature Field Prediction of PMSM Based on Electromagnetic-Heat-Flow Multi-Physics Coupling and Data-Driven Fusion Modeling}, 
   year={2023},
   doi={10.4271/2023-01-7031}
+@Conference{
+  author={Peng Tang, Zhiguo zhao, and Haodi Li},
+  Conference={WCX SAE World Congress Experience}, 
+  title={Transient temperature field prediction method of electric drive transmission considering spatial-temporal correlation characteristics under high speed and large torque}, 
+  year={2024},
+  doi={xxx}
